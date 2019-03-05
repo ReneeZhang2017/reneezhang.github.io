@@ -1,4 +1,4 @@
-# Welcome to Renee Zhang's profile
+# Renee Zhang
 ## Header 2
 ### Header 3
 
